@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ ankit-singh-3861752ab vanity url name-singh-3861752ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ ankit-singh-3861752ab vanity url name-singh-3861752ab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ankit-singh-3861752ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ankit-singh-3861752ab" height="30" width="40" /></a>
 <a href="https://fb.com/ankit singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankit singh" height="30" width="40" /></a>
 <a href="https://instagram.com/ankitsingh31711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankitsingh31711" height="30" width="40" /></a>
 </p>
